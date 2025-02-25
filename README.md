@@ -1,12 +1,4 @@
 - 👋 Hi, I’m @QV1LL
-- 👀 I’m interested in Programming, Algorithms and GameDev.
-- 🌱 I’m currently learning C++, Unreal Engine.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-QV1LL/QV1LL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in Programming, Algorithms and Web development.
+- 🌱 I’m currently learning C#, ASP.NET.
+- My stack is C#, C++, Unity, ASP.NET.
