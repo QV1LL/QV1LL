@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @QV1LL
 - 👀 I’m interested in Programming, Algorithms and Web development.
-- 🌱 I’m currently learning C#, ASP.NET.
-- My stack is C#, C++, Unity, ASP.NET.
+- 🌱 I’m currently learning ASP.NET, EF Core
+- My stack is C#, C++, Unity, ASP.NET, MS SQL Server, Sqlite
