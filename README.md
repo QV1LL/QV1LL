@@ -1,9 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:0d0d0d,100:1e1035&height=130&section=header&text=QV1LL&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=54&desc=Full-Stack%20%7C%20Cross-Platform%20Developer&descSize=15&descAlignY=76&descColor=A78BFA" width="100%"/>
-
-<br/>
-
 <a href="#"><img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="#"><img src="https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white"></a>
 <a href="#"><img src="https://img.shields.io/badge/Email-6D28D9?style=for-the-badge&logo=gmail&logoColor=white"></a>
